@@ -21,7 +21,7 @@
     "@types/node-fetch": "^2.6.3",
     "@types/ws": "^8.5.4",
     "ethers": "^6.3.0",
-    "node-fetch": "2.6.7",
+    "node-fetch": "2.7.0",
     "ws": "^8.13.0"
   },
   "devDependencies": {
